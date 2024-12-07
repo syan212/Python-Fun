@@ -1,2 +1,2 @@
-hi = input("hello")
+hi = input("")
 print(hi)
